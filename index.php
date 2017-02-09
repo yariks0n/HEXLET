@@ -1,2 +1,4 @@
 <?php
-    echo "Hello, Atom"
+  $text = "Hello, Atom";
+
+  echo $text;
